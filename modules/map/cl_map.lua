@@ -5,7 +5,7 @@ local zones = {}
 
 local function load()
     if overlay ~= 0 then return end
-    overlay = AddMinimapOverlay('core/MINIMAP_LOADER.gfx')
+    overlay = AddMinimapOverlay('core/SX_HEAT.gfx')
     while not HasMinimapOverlayLoaded(overlay) do Wait(0) end
     SetMinimapOverlayDisplay(overlay, 0.0, 0.0, 100.0, 100.0, 100.0)
 end
