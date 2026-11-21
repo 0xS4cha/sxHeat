@@ -4,7 +4,7 @@ game 'gta5'
 name 'sxHeat'
 description 'Witness reports, suspect descriptions and shrinking search zones for the police, ESX or standalone'
 author '0xS4cha'
-version '0.1.0'
+version '1.0.0'
 repository 'https://github.com/0xS4cha/sxHeat'
 
 lua54 'yes'
