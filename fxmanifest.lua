@@ -36,7 +36,7 @@ server_scripts {
 ui_page 'web/dist/index.html'
 
 files {
-    'core/MINIMAP_LOADER.gfx',
+    'core/SX_HEAT.gfx',
     'web/dist/index.html',
     'web/dist/**/*',
 }
