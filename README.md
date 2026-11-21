@@ -14,6 +14,14 @@ A witness and police report system for **ESX or standalone** FiveM servers. When
 - **sxHelpMenu** (optional): the report, suspect and match cards are drawn with [sxHelpMenu](https://github.com/0xS4cha/sxHelpMenu), native notifications are used without it.
 - **Translations**: English and French.
 
+<div align="center">
+
+![sxHeat](previews/image.png)
+![sxHeat](previews/image2.png)
+![sxHeat](previews/image3.png)
+
+</div>
+
 ## Dependencies
 
 | Resource | Purpose |
